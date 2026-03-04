@@ -172,3 +172,7 @@ Comment or uncomment the relevant code sections to switch between **PointNet** a
 * Some prior-related thresholds are empirically defined in the current implementation and can be further refined when adapting the framework to more complex scenarios.
 
 ---
+# Acknowledgements
+
+This codebase is developed based on the PyTorch implementation of PointNet and PointNet++ from the following repository:https://github.com/yanx27/Pointnet_Pointnet2_pytorch
+We thank the original authors for releasing their implementation.
